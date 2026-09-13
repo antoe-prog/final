@@ -118,6 +118,21 @@
 - 댓글 수와 “유도복 관련 질문” 수를 분리한다.
 - 문의·예약·실방문·등록·활성·재등록은 내부 비식별 집계가 연결되기 전까지 데이터 미연결로 둔다.
 
+## 모바일 가독성·색 대비 프리플라이트
+
+1. 1080×1350 원본뿐 아니라 가로 360px 축소 미리보기에서도 제목·본문·CTA를 확인한다. 픽셀 수만으로 실제 기기 가독성을 보장하지 않고 육안 검수를 병행한다.
+2. 핵심 본문과 CTA는 아이보리 배경 대비 4.5:1 이상을 제작 목표로 삼고, 큰 제목은 3:1 이상을 최소선으로 삼는다. 이는 W3C WCAG 2.2의 텍스트·텍스트 이미지 대비 기준을 제작 검수에 차용한 것이며 Instagram 게시물의 WCAG 적합성 인증을 뜻하지 않는다.
+3. 색상 강조는 한 장에 한 곳만 사용하고, 색만으로 의미를 전달하지 않는다. 강조어는 위치·굵기 또는 문장 구조로도 구분한다.
+4. 일반 본문·주요 보조문구의 대비가 기준에 못 미치면 브랜드 팔레트를 유지하더라도 더 어두운 색으로 교체한다.
+5. 1080px 폭에서 좌우 84px 이상, 즉 약 7.8%의 안전 여백을 유지하고 계정 표기·페이지 번호·CTA의 잘림을 확인한다.
+6. 대체 텍스트는 장면·핵심 정보·해당 장의 역할을 기술하되 이미지에 없는 성능·인증·인물 정보를 추가하지 않는다.
+7. 이미지가 플랫폼에서 재압축·리사이즈될 수 있으므로 최종 게시 후에도 원본과 공개 화면을 대조한다.
+
+## 2026 운영사례 적용 메모
+
+- 2026년 무도장 마케팅 사례는 소셜 콘텐츠 자체보다 문의 장벽을 낮추고 후속 응대를 연결하는 운영을 함께 강조한다. 이번 유도복 콘텐츠는 확인되지 않은 체험 혜택을 넣지 않고 질문 CTA 1개로 제한하며, 문의가 생기면 예약·실방문·등록을 별도 퍼널로 기록한다.
+- 최신 피트니스 운영 플랫폼도 리드 추적, 퍼널 가시성, ROI 분석을 서로 구분해 제공하고 있다. 콘텐츠 조회·댓글을 등록이나 매출로 간주하지 않고 내부 비식별 데이터가 연결될 때만 사업성과를 평가한다.
+
 ## 근거 출처
 
 1. International Judo Federation, “Judogi Control Guarantees Fair Play,” 2023-06-28  
@@ -128,6 +143,13 @@
    https://www.kusakura.co.jp/about/technique/
 4. KuSakuraShop, “How to Choose Your Judogi,” 2026-09-13 확인  
    https://www.kusakurashop.com/pages/how-to-choose-your-judogi
+
+5. W3C, “Web Content Accessibility Guidelines (WCAG) 2.2,” 2026-09-13 확인  
+   https://www.w3.org/TR/WCAG22/
+6. Wodify, “6 Marketing Ideas to Fill the Mats at Your Martial Arts School,” 2026-07-23  
+   https://www.wodify.com/blog/marketing-ideas-martial-arts-school
+7. Zen Planner, 마케팅·CRM·리드 추적 기능 안내, 2026-09-13 확인  
+   https://zenplanner.com/
 
 ## 감사 결론
 
