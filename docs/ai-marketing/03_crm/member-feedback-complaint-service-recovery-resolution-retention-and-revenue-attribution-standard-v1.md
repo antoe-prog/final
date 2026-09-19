@@ -321,6 +321,7 @@
 - GymMaster, Gym Member Complaints: Improve Customer Service, 2026-03-24 발행·2026-08-26 갱신: https://www.gymmaster.com/blog/gym-member-complaints-improve-customer-service/
 - Gymdesk, Gym Dashboard Overview: https://docs.gymdesk.com/en/help/docs/dashboard
 - Gymdesk, Email Messaging: https://docs.gymdesk.com/en/help/docs/marketing-messaging
+- Google 지도 사용자 제작 콘텐츠 정책: https://support.google.com/contributionpolicy/answer/7400114?hl=ko
 - 한국소비자원 피해구제·분쟁조정 FAQ: https://www.kca.go.kr/odr/cm/cm/faq.do
 - 개인정보 보호법: https://www.law.go.kr/법령/개인정보보호법
 
