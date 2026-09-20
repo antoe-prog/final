@@ -237,4 +237,4 @@
 - W3C WAI, [Understanding SC 1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) — 2026-09-17 확인. 일반 텍스트 4.5:1, 큰 텍스트 3:1 및 반올림 금지 기준을 참고했다.
 - W3C WAI, [Understanding SC 1.4.1 Use of Color](https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html) — 2026-09-17 확인. 색상을 정보 전달의 유일한 수단으로 사용하지 않는 기준을 참고했다.
 - W3C WAI, [Captions](https://www.w3.org/WAI/media/av/captions/) — 2026-09-17 확인. 말과 의미 있는 비언어 음향의 동기화 및 자동 자막 정확성 검수 기준을 참고했다.
-- GymMaster, [Inclusive Gym Marketing & Accessibility Strategies](https://www.gymmaster.com/blog/inclusive-gym-marketing-and-accessibility-strategies/) — 2026-06-09 발행, 2026-08-25 갱신, 2026-09-17 확인. 외부 체육시설 접근성 사례이며 파이널유도의 내부 성과 근거로 사용하지 않았다.
+- GymMaster, [Inclusive Gym Marketing & Accessibility Strategies](https://www.gymmaster.com/blog/inclusive-gym-marketing-and-accessibility-strategies/) — 2026-06-09 발행, 2026-08-27 갱신, 2026-09-20 확인. 외부 체육시설 접근성 사례이며 파이널유도의 내부 성과 근거로 사용하지 않았다.
