@@ -100,7 +100,9 @@
 - 3일 차 체급: 남자 -90kg·-100kg·+100kg, 여자 -78kg·+78kg
 - 다섯 체급의 `Results`: 모두 `No results were found`
 - 누적 메달표: 2일 차 종료 기준과 동일
-- IJF 뉴스 목록의 최신 아시안게임 해설: 1일 차 기사 유지
+- IJF 공식 2일 차 해설 기사 `Asia’s Judo Strength on Display in Nagoya`(2026-10-01) 공개 확인
+
+IJF의 2일 차 공식 해설은 다섯 개인전 체급의 메달리스트와 2일 차 종료 시점의 대륙별 경쟁 구도를 요약하고, 금요일 최종 개인전과 이후 혼성단체전을 예고한다. 결과·일정 설명의 보조 근거로 사용할 수 있지만, 기사 내 사진은 `Photos © eJudo, Hiroaki Ueno`로 표시돼 있으므로 별도 권리 확인 없이 재사용하지 않는다. 메달·순위의 최종 판정은 계속 `Results`를 우선한다.
 
 따라서 3일 차를 `경기 시작 전` 상태로 분류한다. 11:00 전에는 선수별 승패·메달·국가별 최종 순위를 예고하거나 추정하지 않는다. 예선 시작 후 `Contests`에 경기 기록이 생기더라도 `Results`의 1위·2위·공동 3위가 표시되기 전까지는 체급별 최종 결과로 전환하지 않는다. 2일 차 누적 메달표도 3일 차 결과가 반영되면 바뀔 수 있으므로 대회 전체 최종 순위로 재사용하지 않는다.
 
@@ -224,5 +226,6 @@ Instagram 작업은 기존 승인 대기 5건·40장 해소 전 새 패키지를
 - IJF, 공식 경기 기록(Contests): https://www.ijf.org/competition/3267/contests
 - IJF, 공식 결과(Results): https://www.ijf.org/competition/3267/results
 - IJF, `Asian Games Begin with Four Titles in Nagoya` (2026-09-30): https://www.ijf.org/news/show/asian-games-begin-with-four-titles-in-nagoya
+- IJF, `Asia’s Judo Strength on Display in Nagoya` (2026-10-01): https://www.ijf.org/news/show/asia-s-judo-strength-on-display-in-nagoya
 - IJF, 20th Asian Games Aichi-Nagoya Mixed Teams: https://www.ijf.org/competition/3268
 - Aichi-Nagoya 2026 조직위원회, Daily Schedule: https://www.aichi-nagoya2026.org/files/common/%EF%BC%91%EF%BC%91%EF%BC%91/0212%E7%AB%B6%E6%8A%80%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%A4%89%E6%9B%B4/English/Dairly%20Schedule%20for%20the%2020th%20Asian%20Games.pdf
