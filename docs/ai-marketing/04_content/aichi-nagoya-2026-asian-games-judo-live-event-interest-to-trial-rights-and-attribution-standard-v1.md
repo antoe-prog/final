@@ -42,6 +42,16 @@
 
 2026-09-30 20:19 KST에 IJF 대회 개요의 `Medal Ranking`도 1일 차 결과를 반영해 표시되기 시작했다. 이 표는 해당 시각까지의 국가별 누적 메달 순위이며 10월 1~2일 개인전 결과가 추가되면 바뀐다. 국가별 요약을 공개할 때는 직접 합산한 수치 대신 IJF의 최신 `Medal Ranking`을 확인 시각과 함께 인용하고, `1일 차 종료 기준 누적` 또는 `확인 시점 누적`으로 범위를 표시한다.
 
+### 2026-10-01 공식 IJF 1일 차 해설 기사 확인
+
+2026-10-01 10:27 KST에 IJF 공식 기사 `Asian Games Begin with Four Titles in Nagoya`(2026-09-30 게시)를 확인했다. 기사는 1일 차 네 체급의 메달리스트와 당시 누적 메달 흐름을 설명하고, 2일 차 체급을 남자 -73kg·-81kg 및 여자 -57kg·-63kg·-70kg으로 예고한다.
+
+- 대회 페이지의 `News` 목록이 비어 있어도 IJF의 개별 기사 URL이 먼저 검색·노출될 수 있다. 따라서 목록 화면만으로 공식 해설 기사 부재를 단정하지 않고 IJF 도메인의 직접 기사도 함께 확인한다.
+- 기사는 경기 맥락과 입문자용 해설의 보조 근거로 사용한다. 체급별 확정 순위는 `Results`, 국가별 누적 메달은 최신 `Medal Ranking`을 최종 기준으로 삼는다.
+- 기사에 적힌 1일 차 누적 메달 흐름을 대회 전체 최종 순위로 확대하지 않는다. 2일 차 경기 결과가 반영되면 기존 누적 수치는 바뀔 수 있다.
+- 기사 사진에는 촬영자·권리 표기가 있으므로 원문 링크 인용은 가능하지만 사진을 내려받아 마케팅 소재로 재사용하지 않는다.
+- 대회 연계 콘텐츠는 승인 대기 Instagram 패키지 5건·40장 해소 전 새 패키지로 제작하지 않는다. 향후에는 `공식 해설 한 문장 → 초보 관전 포인트 → 단일 행동 유도` 구조를 사용한다.
+
 #### 진행 중 기록과 확정 결과의 분리 규칙
 
 1. 공개 상태를 `경기 진행 기록 / 부분 결과 / 최종 결과`로 구분하고 확인 시각을 함께 표시한다.
@@ -159,5 +169,6 @@
 - IJF, 20th Asian Games Aichi-Nagoya 개인전: https://www.ijf.org/competition/3267
 - IJF, 공식 경기 기록(Contests): https://www.ijf.org/competition/3267/contests
 - IJF, 공식 결과(Results): https://www.ijf.org/competition/3267/results
+- IJF, `Asian Games Begin with Four Titles in Nagoya` (2026-09-30): https://www.ijf.org/news/show/asian-games-begin-with-four-titles-in-nagoya
 - IJF, 20th Asian Games Aichi-Nagoya Mixed Teams: https://www.ijf.org/competition/3268
 - Aichi-Nagoya 2026 조직위원회, Daily Schedule: https://www.aichi-nagoya2026.org/files/common/%EF%BC%91%EF%BC%91%EF%BC%91/0212%E7%AB%B6%E6%8A%80%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%A4%89%E6%9B%B4/English/Dairly%20Schedule%20for%20the%2020th%20Asian%20Games.pdf
