@@ -352,3 +352,14 @@ IJF의 실시간 본문과 보조 페이지를 교차 확인했다.
 - IJF, `Asia’s Judo Strength on Display in Nagoya` (2026-10-01): https://www.ijf.org/news/show/asia-s-judo-strength-on-display-in-nagoya
 - IJF, 20th Asian Games Aichi-Nagoya Mixed Teams: https://www.ijf.org/competition/3268
 - Aichi-Nagoya 2026 조직위원회, Daily Schedule: https://www.aichi-nagoya2026.org/files/common/%EF%BC%91%EF%BC%91%EF%BC%91/0212%E7%AB%B6%E6%8A%80%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%A4%89%E6%9B%B4/English/Dairly%20Schedule%20for%20the%2020th%20Asian%20Games.pdf
+
+
+### 2026-10-03 07:25 KST 참가 인원 재변경·내부 불일치
+
+IJF 공식 혼성단체전 페이지의 참가 인원 표시가 직전 교차검증 값에서 변경됐다.
+
+- 대회 본문: 10개국·101명(남 50명·여 51명)
+- 국가별 명단: 10개국이며 표시 인원을 합산하면 102명
+- `Draw`: 계속 `There are not contests in this category`
+
+대회 본문과 국가별 명단의 실시간 수치가 서로 일치하지 않으므로, 공개 콘텐츠에서는 참가국 수 `10개국`만 사용할 수 있다. 총 참가 인원과 성별 인원은 IJF 본문·국가별 명단이 다시 일치할 때까지 공개 문구에서 보류한다. 직전 기준의 `102명(남 51명·여 51명)`도 현재값으로 재사용하지 않는다. 이 불일치를 특정 선수의 철회·실격·부상·명단 삭제로 추정하지 않으며, 대진은 여전히 미등록 상태로 분류한다.
